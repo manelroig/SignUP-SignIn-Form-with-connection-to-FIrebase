@@ -4,8 +4,13 @@
  import{getFirestore, setDoc, doc} from "https://www.gstatic.com/firebasejs/10.11.1/firebase-firestore.js"
  
  const firebaseConfig = {
- //YOUR COPIED FIREBASE PART SHOULD BE HERE
- //WATCH THIS VIDEO TO LEARN WHAT TO PUT HERE   https://youtu.be/_Xczf06n6x0
+  apiKey: "AIzaSyDfBKviQSIV8-5_Mn2F-A5-q8GorUrd7do",
+  authDomain: "dbnavidad24.firebaseapp.com",
+  projectId: "dbnavidad24",
+  storageBucket: "dbnavidad24.appspot.com",
+  messagingSenderId: "1088874986512",
+  appId: "1:1088874986512:web:1a24b655e89bf6e7409e95",
+  measurementId: "G-133MRYJG88"
  };
 
  // Initialize Firebase
